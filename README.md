@@ -1,12 +1,4 @@
-Below is a \*\*more professional, recruiter-ready README.md\*\* for your GitHub project.
-
-You can \*\*copy this completely into your `README.md` file\*\*.
-
-
-
-It includes:
-
-
+This Project includes: 
 
 \* Clear project objective
 
@@ -846,18 +838,7 @@ Rizwan Siddiqui
 
 
 
-Cloud Engineer | DevOps Enthusiast
-
-
-
-GitHub:
-
-
-
-You can view the project repository on
-
-GitHub
-
+Cloud/DevOps Engineer
 
 
 \---
